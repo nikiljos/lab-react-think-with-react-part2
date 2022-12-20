@@ -2,7 +2,7 @@
 
 # Kalvium Lab | REACT - Think with React
 
-[![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://stackblitz.nikjos.in/open?repo=nikiljos/lab-react-think-with-react-part1)
+[![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://stackblitz.nikjos.in/open?repo=nikiljos/lab-react-think-with-react-part2)
 
 ## Learning Goals
 
